@@ -50,7 +50,7 @@ body {
   position: absolute;
   top: clamp(18px, 2.2vw, 30px);
   left: clamp(18px, 2.2vw, 30px);
-  width: clamp(170px, 18vw, 280px);
+  width: clamp(200px, 22vw, 360px);
   height: auto;
   object-fit: contain;
 }
