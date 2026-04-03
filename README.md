@@ -1,12 +1,9 @@
-# Macro Landing Page
+# Troia Economics landing page
 
-Simple responsive landing page with:
-- full-screen background image
-- logo in the top-left corner
-- investment-focused tagline
-
-## Files
+Included:
 - index.html
 - styles.css
+
+Expected assets in the same folder:
 - logo.png
 - background.jpg
