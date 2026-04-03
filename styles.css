@@ -94,10 +94,13 @@ h1 {
   }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 640px) {
   .logo {
-    width: clamp(145px, 24vw, 220px);
+    top: 18px;
+    left: 16px;
+    width: clamp(180px, 42vw, 240px);
   }
+}
 
   .content {
     transform: translateY(13vh);
